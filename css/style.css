@@ -10,5 +10,11 @@
 /* navbar */
 img[alt="logo"] {
     width: 5rem;
+}
 
+body {
+    text-align: center;
+}
+#products :is(.card) {
+    width: 18rem;
 }
